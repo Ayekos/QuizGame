@@ -18,3 +18,6 @@ Requirements:
 
 ![image](https://github.com/user-attachments/assets/93a3b0ca-6ea3-4b40-b7a3-d854a60b0f3e)
 
+Author:
+-------
+Végh Nikolasz
