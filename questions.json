@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Mi Magyarország fővárosa?",
+    "options": ["Budapest", "Debrecen", "Szeged", "Győr"],
+    "answer": 0
+  },
+  {
+    "question": "Mennyi 3 * 4?",
+    "options": ["7", "12", "10", "14"],
+    "answer": 1
+  },
+  {
+    "question": "Melyik évben lett EU-tag Magyarország?",
+    "options": ["2000", "2004", "1999", "2001"],
+    "answer": 1
+  }
+]
